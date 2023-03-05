@@ -1,4 +1,4 @@
-package com.cbt.tests;
+package cbt;
 
 import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Given;
@@ -46,5 +46,4 @@ public class StepDefs {
         }
         Driver.closeDriver();
     }
-
 }

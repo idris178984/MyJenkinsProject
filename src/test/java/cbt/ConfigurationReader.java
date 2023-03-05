@@ -1,10 +1,9 @@
-package com.cbt.tests;
+package cbt;
 
 import java.io.FileInputStream;
 import java.util.Properties;
 
 public class ConfigurationReader {
-
     private static Properties configFile;
 
     static {
